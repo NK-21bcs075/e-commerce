@@ -4,10 +4,7 @@
 ```sh
 pip install uvicorn
 ```
-**4.Run Server**
+**Run Server**
 ```sh
 Python -m uvicorn server:app --reload
 ```
-
-## Where to find Me
-visit My [Website](https://sanjaysblog.netlify.app/)
